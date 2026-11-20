@@ -1,0 +1,14 @@
+{
+  "name": "HMR Foundation",
+  "short_name": "HMR Foundation",
+  "description": "HMR Foundation office management application",
+  "lang": "bn",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f3",
+  "theme_color": "#075b32",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "appId": "org.hmr.foundation",
+  "appName": "HMR Foundation",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
